@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Banana-exe
+- 👋 Hi, I’m @Banana-exe AKA Glitched_Banana
 - 👀 I’m interested in learnig to code as a posible career choice.
 - 🌱 I’m currently learning Python, JS, HTML, and CSS.
 - 💞️ I’m looking to collaborate on ummm... not rly
