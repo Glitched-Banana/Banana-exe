@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Banana-exe AKA Glitched_Banana AKA Shado_
+- 👋 Hi, I’m @Glitched-Banana
 - 👀 I’m interested in learnig to code as a posible career choice.
 - 🌱 I’m currently learning Python, JS, HTML, and CSS.
 - 📫 How to reach me -Discord ---> Das Blut Mond#3963 
